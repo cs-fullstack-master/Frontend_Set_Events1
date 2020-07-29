@@ -11,7 +11,7 @@
 1) Include another button to input a different score for player 2
 2) Include a reset button to reset the scores of both players.
 
-#### Extra Credit
+#### Challenge
 1) Once either player reaches 5, stop the game.
 2) Display ```YOU WIN PLAYER (1/2)``` when one of the players reaches 5 clicks.
 3) Clear everything when the user hits reset.
